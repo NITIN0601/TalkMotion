@@ -12,5 +12,5 @@
 
 
 - PPT : https://docs.google.com/presentation/d/15RsF05EbSx0i86rYlt6rw4DcPt2_mrapVESA9Xw59hU/edit?usp=sharing
-- Video :
+- Video : https://drive.google.com/file/d/1VqCpeeGpMW_bJHMT400XiXozeBOCqi1s/view?usp=sharing
 - Ipynb : https://github.com/NITIN0601/TalkMotion/blob/main/Backend_Code_Hand_Recognition_Updated.ipynb 
